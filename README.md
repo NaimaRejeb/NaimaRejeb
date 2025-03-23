@@ -1,16 +1,18 @@
-## Hi there 👋
+# Bonjour, je suis [Votre Nom] 👋
 
-<!--
-**NaimaRejeb/NaimaRejeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
+- 🎓 Étudiant en [Votre Domaine]
+- 💻 Passionné par [Vos Centres d'Intérêt]
+- 🌱 J'apprends actuellement [Langages/Technologies]
 
-Here are some ideas to get you started:
+## Compétences
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets
+- [Projet 1](lien_vers_le_projet)
+- [Projet 2](lien_vers_le_projet)
+
+## Contact
+- 📧 Email: [votre@email.com](mailto:votre@email.com)
+- 🌐 Portfolio: [lien_vers_portfolio](https://votreportfolio.com)
