@@ -16,3 +16,5 @@
 ## Contact
 - 📧 Email: [votre@email.com](mailto:votre@email.com)
 - 🌐 Portfolio: [lien_vers_portfolio](https://votreportfolio.com)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=votre_nom_utilisateur&layout=compact)
