@@ -182,7 +182,7 @@ I'm always excited to collaborate on innovative projects and discuss ideas in AI
 
 ![Profile Views](https://komarev.com/ghpvc/?username=naimarejebb&color=blueviolet&style=for-the-badge)
 
-⭐️ From [NaimaRejeb](https://github.com/<div align="center">
+⭐️ From [NaimaRejeb](https://github.com/NaimaRejeb<div align="center">
 
 # 👋 Hello, I'm Naima REJEB
 
