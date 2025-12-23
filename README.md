@@ -280,27 +280,27 @@ me.say_hi()
 
 ## 🎯 Featured Projects
 
-### 🤖 [Smart Text Generator - RAG System](https://github.com/naimarejebb)
+### 🤖 [Smart Text Generator - RAG System](https://github.com/NaimaRejeb)
 AI-powered text generation using Retrieval-Augmented Generation for contextually accurate content creation.
 - **Tech Stack:** NLP, RAG, LLMs, Vector Databases, Python
 - **Status:** 🚧 In Progress
 
-### 🔄 [End-to-End MLOps Pipeline](https://github.com/naimarejebb)
+### 🔄 [End-to-End MLOps Pipeline](https://github.com/NaimaRejeb)
 Complete ML workflow with Git, DVC, MLflow, ZenML, Optuna, Docker, and CI/CD.
 - **Tech Stack:** Python, Docker, MLflow, ZenML, DVC, GitLab CI/CD
 - **Status:** 🚧 In Progress
 
-### ✈️ [SkyConnect - Flight Booking Platform](https://github.com/naimarejebb)
+### ✈️ [SkyConnect - Flight Booking Platform](https://github.com/NaimaRejeb/SoA_Microservices/tree/main/ProjetSOA_SkyConnect)
 Distributed microservices platform combining REST, GraphQL, gRPC, and Kafka.
 - **Tech Stack:** Node.js, Microservices, REST, GraphQL, gRPC, Kafka
 - **Year:** 2025
 
-### 🚗 [Road Accident Risk Analysis](https://github.com/naimarejebb)
+### 🚗 [Road Accident Risk Analysis](https://www.kaggle.com/code/naiimarejeb/accidents-ml)
 ML research project combining HDBSCAN clustering and Random Forest (87% accuracy) on 3M+ records.
 - **Tech Stack:** Python, scikit-learn, Geospatial Analysis
 - **Year:** 2025
 
-### 🍯 [Honey E-commerce Application](https://github.com/naimarejebb)
+### 🍯 [Honey E-commerce Application](https://github.com/NaimaRejeb/-honey-store-mean)
 Full-stack MEAN application with catalog management and RESTful API.
 - **Tech Stack:** Angular 19, Node.js, Express, MongoDB, TypeScript
 - **Year:** 2025
